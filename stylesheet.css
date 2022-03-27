@@ -1,0 +1,56 @@
+  .Syndie {
+      font-style: italic;
+      color: rgb(80, 3, 3);
+      background-color: red;
+      text-align: center;
+  }
+  
+  .Join {
+      font-style: oblique;
+      color: rgb(134, 0, 0);
+  }
+  
+  .good {
+      font-style: oblique;
+      color: rgb(117, 1, 111);
+      text-align: center;
+  }
+  
+  .Back {
+      background-image: url(https://external-preview.redd.it/HXDZajfQ9jabFL4NUGf4FUFM89AYkIqafYYff29LG2k.jpg?auto=webp&s=a0665cf6a75c1cd8e2fbe6a9ff8248a0e1c19557);
+  }
+  
+  .bb {
+      font-style: italic;
+      color: brown;
+  }
+  
+  .videosik {
+      float: right;
+  }
+  
+  .margin {
+      margin-top: 50px;
+      padding: 20px;
+      color: rgb(120, 41, 194);
+  }
+  
+  .srch {
+      color: red;
+      font-size: 30px;
+  }
+  
+  .srchs {
+      color: rgb(134, 0, 0);
+      text-align: center;
+  }
+  
+  .pp {
+      color: rgb(46, 1, 1);
+      font-size: 30px;
+  }
+  
+  .aa {
+      color: rgb(0, 0, 0);
+      font-size: 30px
+  }
